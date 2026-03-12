@@ -3,7 +3,7 @@
 
 ## Abenteuerspiel
 
-### Wald oder Stadt?
+### 1. Wald oder Stadt?
 
 Das Programm fragt: "Möchtest du in den Wald oder in die Stadt gehen?"
 
