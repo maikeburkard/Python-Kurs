@@ -11,4 +11,4 @@ Wenn der Mensch "Wald" eingibt, antwortet das Programm mit "Du gehst in den Wald
 
 Wenn der Mensch "Stadt" eingibt, antwortet das Programm mit "Du gehst in die Stadt".
 
-Sonst sagt das Programm: "Bitte gib Wald oder Stadt ein"
+Sonst sagt das Programm: "Bitte schreibe Wald oder Stadt."
