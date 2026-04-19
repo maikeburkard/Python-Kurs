@@ -50,3 +50,27 @@ Das Programm sagt: "Und jetzt den Operator (+, -, *, /):"
 Der Mensch gibt den Operator ein.
 
 Das Programm gibt das ausgerechnetes Ergebnis aus.
+
+## Ratespiel
+
+Das Programm sagt: "Ich denke mir eine Zahl zwischen 1 und 1000"
+Das Programm sagt: "Rate mal!"
+
+Der Mensch gibt eine Zahl ein.
+
+Wenn die Zahl zu klein ist, sagt das Programm: "Zu klein"
+
+Wenn die Zahl zu groß ist, sagt das Programm: "Zu groß"
+
+Wenn es die richtige Zahl ist, sagt das Programm: "Richtig!"
+
+Wenn die eingegebene Zahl kleiner als 1 oder größer als 1000 ist, sagt das Programm: "Ungültiger Wert"
+
+### Erweiterung 1
+Das Programm läuft so lange, bis der Mensch die richtige Zahl geraten hat
+
+### Erweiterung 2
+Der Mensch kann durch Eingabe von 0 das Programm beenden
+
+### Erweiterung 3
+Wenn die Lösung gefunden wurde, wird ausgegeben, wie viele Versuche benötigt wurden
