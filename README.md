@@ -51,6 +51,18 @@ Der Mensch gibt den Operator ein.
 
 Das Programm gibt das ausgerechnetes Ergebnis aus.
 
+### Erweiterung 1
+
+Wenn der Mensch versucht, durch 0 zu teilen, kommt eine Fehlermeldung.
+
+### Erweiterung 2
+
+Das Programm kann mit Kommazahlen rechnen.
+
+### Erweiterung 3
+
+Wenn der Mensch zB "fünf" als Zahl eingibt, kommt eine Fehlermeldung.
+
 ## Ratespiel
 
 Das Programm sagt: "Ich denke mir eine Zahl zwischen 1 und 1000"
@@ -67,10 +79,10 @@ Wenn es die richtige Zahl ist, sagt das Programm: "Richtig!"
 Wenn die eingegebene Zahl kleiner als 1 oder größer als 1000 ist, sagt das Programm: "Ungültiger Wert"
 
 ### Erweiterung 1
-Das Programm läuft so lange, bis der Mensch die richtige Zahl geraten hat
+Das Programm läuft so lange, bis der Mensch die richtige Zahl geraten hat.
 
 ### Erweiterung 2
-Der Mensch kann durch Eingabe von 0 das Programm beenden
+Der Mensch kann durch Eingabe von 0 das Programm beenden.
 
 ### Erweiterung 3
-Wenn die Lösung gefunden wurde, wird ausgegeben, wie viele Versuche benötigt wurden
+Wenn die Lösung gefunden wurde, wird ausgegeben, wie viele Versuche benötigt wurden.
