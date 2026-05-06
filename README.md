@@ -86,3 +86,18 @@ Der Mensch kann durch Eingabe von 0 das Programm beenden.
 
 ### Erweiterung 3
 Wenn die Lösung gefunden wurde, wird ausgegeben, wie viele Versuche benötigt wurden.
+
+## Hangman
+
+Das Programm denkt sich ein geheimes Wort aus.
+Der Mensch versucht, dieses Wort zu erraten, indem er einzelne Buchstaben vorschlägt.
+
+Spielablauf:
+Das Wort wird als Reihe von Strichen dargestellt (ein Strich pro Buchstabe)
+Der Mensch gibt einen Buchstaben ein
+Wenn der Buchstabe im Wort vorkommt, wird er an allen passenden Stellen aufgedeckt
+Wenn der Buchstabe nicht vorkommt, verliert der Spieler einen Versuch
+
+Spielende:
+Der Spieler gewinnt, wenn er das ganze Wort erraten hat
+Der Spieler verliert, wenn alle Versuche aufgebraucht sind
