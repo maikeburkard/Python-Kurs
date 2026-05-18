@@ -1,9 +1,9 @@
-word = "python"
+solution = "python"
 
 while (True):
     char = input("Buchstabe: ")
 
-    if (char in word):
+    if (char in solution):
         print("richtig")
     else:
         print("falsch")
