@@ -100,4 +100,9 @@ Spielablauf:
 
 Spielende:  
 Der Spieler gewinnt, wenn er das ganze Wort erraten hat. 
+
+### Erweiterung 1
 Der Spieler verliert, wenn alle Versuche aufgebraucht sind. 
+
+### Erweiterung 2
+Der Spieler hat auch die Möglichkeit, das ganze Wort einzugeben.  
